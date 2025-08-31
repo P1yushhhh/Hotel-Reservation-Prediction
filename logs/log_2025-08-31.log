@@ -69,4 +69,5 @@
 2025-08-31 08:49:04,702 - INFO - Model saved to artifacts/models/lgbm_model.pkl
 2025-08-31 08:49:04,702 - INFO - Logging the model into MLFLOW
 2025-08-31 08:49:04,722 - INFO - Logging Params and metrics to MLFLOW
-2025-08-31 08:49:04,766 - INFO - Model Training sucesfullly completed
+2025-08-31 08:49:04,766 - INFO - Model Training sucesfullly completed2025-08-31 09:26:03,301 - INFO - Model loaded successfully!
+2025-08-31 09:30:51,424 - INFO - Model loaded successfully!

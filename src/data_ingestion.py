@@ -9,7 +9,7 @@ from utils.common_functions import read_yaml
 
 logger = get_logger(__name__)
 
-os.environ['GOOGLE_APPLICATION_CREDENTIALS'] = r"C:\Users\Pc\Downloads\optimum-lodge-466520-a7-ab0b935d2c33.json"
+os.environ['GOOGLE_APPLICATION_CREDENTIALS'] = r"C:\Users\Pc\Downloads\ml-ops-470702-71b672606697.json"
 class DataIngestion:
     def __init__(self,config):
         self.config = config["data_ingestion"]
